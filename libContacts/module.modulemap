@@ -1,0 +1,5 @@
+// In module.modulemap
+module ContactsLib {
+    header "interface.hpp"
+    requires cplusplus
+}
